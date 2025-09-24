@@ -21,4 +21,5 @@ It includes **data cleaning, exploratory data analysis (EDA), and 10+ visualizat
   - Seasonal decomposition
 - Saves output datasets (`monthly_avg.csv`, `describe.csv`)
 - Saves all charts as PNG
+<img width="903" height="512" alt="Screenshot 2025-09-23 211853" src="https://github.com/user-attachments/assets/688f0480-8ab9-4c0c-a363-e370b4d994a7" />
 
